@@ -8,7 +8,7 @@ package edu.java.inheritance01;
 
 public class BasicTv {
 	// 필드(멤버 변수)
-	private boolean powerOn;
+	private boolean powerOn; 
 	private int channel;
 	private int volume;
 	
